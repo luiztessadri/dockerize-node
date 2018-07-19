@@ -1,0 +1,16 @@
+{
+  "name": "dockerize-node-microservice",
+  "version": "1.0.0",
+  "description": "A NodeJS tutorial with Docker",
+  "main": "server.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Docker",
+    "NodeJS"
+  ],
+  "author": "Luiz Tessadri",
+  "license": "MIT"
+}
